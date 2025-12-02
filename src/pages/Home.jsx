@@ -40,7 +40,7 @@ const Home = () => {
 
             <section className="why-choose-us">
                 <div className="container">
-                    <h2 className="section-title">Why Choose JS Reality Group?</h2>
+                    <h2 className="section-title">Why Choose Us?</h2>
                     <p className="section-subtitle">We provide a seamless and transparent real estate experience tailored to your needs.</p>
 
                     <div className="features-grid">

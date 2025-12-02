@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="container">
                 <div className="footer-content">
                     <div className="footer-brand">
-                        <h3>JS Reality <span>Group</span></h3>
+                        <h3>Classic <span>Realtors</span></h3>
                         <p>Your trusted real estate partner in Bangalore. Excellence in property solutions since 2010.</p>
                     </div>
                     <div className="footer-links">
@@ -31,14 +31,14 @@ const Footer = () => {
                     <div className="footer-links">
                         <h4>Contact Us</h4>
                         <ul>
-                            <li>info@jsrealitygroup.com</li>
-                            <li>+91 98765 43210</li>
+                            <li>info@company.com</li>
+                            <li>+91 xxxxx xxxxx</li>
                             <li>Bangalore, Karnataka</li>
                         </ul>
                     </div>
                 </div>
                 <div className="footer-bottom">
-                    <p>&copy; 2025 JS Reality Group. All rights reserved.</p>
+                    <p>&copy; 2025 Classic Realtors. All rights reserved.</p>
                 </div>
             </div>
         </footer>

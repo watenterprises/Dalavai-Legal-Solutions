@@ -14,7 +14,7 @@ const Navbar = () => {
         <nav className="navbar">
             <div className="container navbar-content">
                 <Link to="/" className="logo">
-                    JS Reality <span>Group</span>
+                    Classic <span>Realtors</span>
                 </Link>
 
                 <div className={`nav-links-container ${isMenuOpen ? 'open' : ''}`}>
